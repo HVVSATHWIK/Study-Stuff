@@ -1,0 +1,1 @@
+Outlined below are various methodologies and resources that I utilized to facilitate my learning in PHP.
